@@ -93,7 +93,7 @@ lib/
 
 ## Assumptions Made
 
-* API endpoints return data in a consistent format.
+* API endpoints return data in a consistent format (used /api/id endpoint for getting res in json format).
 * Frame drop detection uses Flutter’s built-in performance overlay.
 * Only vertical swiping is required (no horizontal movement).
 
